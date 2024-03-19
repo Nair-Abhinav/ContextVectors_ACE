@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "DaysOne";
+    src: url("./assets/Fonts/DaysOne-Regular.ttf") format("truetype");
+}

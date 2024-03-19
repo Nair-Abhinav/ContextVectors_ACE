@@ -1,0 +1,32 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "url": "https://res.cloudinary.com/dpbtfgqvb/image/upload/v1710642565/t5o80k5omqeb9qmnd3oi.jpg"
+        },
+        {
+            "id": 2,
+            "url": "https://res.cloudinary.com/dpbtfgqvb/image/upload/v1710642691/iifuzdtiv5qpflpwxeyt.jpg"
+        },
+        {
+            "id": 3,
+            "url": "https://res.cloudinary.com/dpbtfgqvb/image/upload/v1710642716/nlcjzp0ybu7mymvzetjy.jpg"
+        },
+        {
+            "id": 4,
+            "url": "https://res.cloudinary.com/dpbtfgqvb/image/upload/v1710642734/sluljuktbyerdegbzjwv.jpg"
+        },
+        {
+            "id": 5,
+            "url": "https://res.cloudinary.com/dpbtfgqvb/image/upload/v1710642749/s552eieheuav9n5dxwid.jpg"
+        },
+        {
+            "id": 6,
+            "url": "https://res.cloudinary.com/dpbtfgqvb/image/upload/v1710642766/suarnz0acbvhkpv21szc.jpg"
+        },
+        {
+            "id": 7,
+            "url": "https://res.cloudinary.com/dpbtfgqvb/image/upload/v1710642796/vdacnwywusosqtaljawo.jpg"
+        }
+    ]
+}
